@@ -24,6 +24,8 @@
 - **WaffleHacks Hackathon**: Honorable Mention for addressing Student Food Insecurity
 - **MLH Hack Your Portfolio Hackathon**: Best Networking Hack 🥇
 - **Nillion AI prize winner: 2nd prize**
+- **Build on Aptos Hackathon:** 1st Runner up in Consumer track 
+- **TON Open Hack:** Top-10 Finalist
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
