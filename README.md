@@ -26,6 +26,8 @@
 - **Nillion AI prize winner: 2nd prize**
 - **Build on Aptos Hackathon:** 1st Runner up in Consumer track 
 - **TON Open Hack:** Top-10 Finalist
+- **Nasiko Buildathon Bengaluru:** Top-10
+- **Webcmd Hackathon (Agentic payment edition):** 2nd Runner-Up
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
